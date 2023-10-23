@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TimeMachine/static/css/main.35c693ad.css",
+    "main.js": "/TimeMachine/static/js/main.eb860e57.js",
+    "static/js/787.eb1cec57.chunk.js": "/TimeMachine/static/js/787.eb1cec57.chunk.js",
+    "static/media/inter-latin-ext-wght-normal.woff2": "/TimeMachine/static/media/inter-latin-ext-wght-normal.fbd6dc6ea3a2a849b6fc.woff2",
+    "static/media/inter-latin-wght-normal.woff2": "/TimeMachine/static/media/inter-latin-wght-normal.e62404dc3261fb537f3a.woff2",
+    "static/media/inter-cyrillic-ext-wght-normal.woff2": "/TimeMachine/static/media/inter-cyrillic-ext-wght-normal.92dcb004dd66a14761da.woff2",
+    "static/media/inter-greek-wght-normal.woff2": "/TimeMachine/static/media/inter-greek-wght-normal.8cf014c12c3518f736ab.woff2",
+    "static/media/inter-cyrillic-wght-normal.woff2": "/TimeMachine/static/media/inter-cyrillic-wght-normal.dd1eb0afa10711830d27.woff2",
+    "static/media/inter-greek-ext-wght-normal.woff2": "/TimeMachine/static/media/inter-greek-ext-wght-normal.f8ed8c6b512a482bd1ae.woff2",
+    "static/media/inter-vietnamese-wght-normal.woff2": "/TimeMachine/static/media/inter-vietnamese-wght-normal.03627a8b5fe27d055e5c.woff2",
+    "index.html": "/TimeMachine/index.html",
+    "main.35c693ad.css.map": "/TimeMachine/static/css/main.35c693ad.css.map",
+    "main.eb860e57.js.map": "/TimeMachine/static/js/main.eb860e57.js.map",
+    "787.eb1cec57.chunk.js.map": "/TimeMachine/static/js/787.eb1cec57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c693ad.css",
+    "static/js/main.eb860e57.js"
+  ]
+}
