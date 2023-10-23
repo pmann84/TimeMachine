@@ -40,7 +40,7 @@ export const CurrentTime = () => {
     >
       <CardContentNoPadding sx={{ padding: 0 }}>
         <Typography sx={{ fontSize: 10 }} gutterBottom>
-          Current Time
+          Current Time (s)
         </Typography>
         <Typography sx={{ fontSize: 12 }}>{currentTime}</Typography>
       </CardContentNoPadding>
