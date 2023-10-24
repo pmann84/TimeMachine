@@ -15,6 +15,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Install Dependencies
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+    
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
