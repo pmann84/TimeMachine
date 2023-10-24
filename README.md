@@ -4,7 +4,7 @@
 
 This is a clone of every other timestamp conversion site, except probably not as good XD. Hopefully built to be easy to use with keyboard shortcuts for executing.
 
-Link to site [here](https://pmann84.github.io/TimeMachine)
+Link to site [here](https://pmann84.github.io/TimeMachine).
 
 ## Features
 
