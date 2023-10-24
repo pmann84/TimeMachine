@@ -1,4 +1,4 @@
-# The Time Machine
+# [The Time Machine](https://pmann84.github.io/TimeMachine)
 
 ## Overview
 
@@ -21,8 +21,3 @@ Calculates the duration between two human readable date time strings.
 ## Development
 
 This is a react app writen with CRA (create-react-app), using MUI for the UI. There are scripts to build and run the website in Docker.
-
-## TODOs
-
-- Make string converters support more than just ISO format
-- ...
