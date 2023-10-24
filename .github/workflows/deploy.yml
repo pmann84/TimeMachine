@@ -18,15 +18,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         
-      - name: Install Dependencies
+      - name: Setup Environment
         uses: actions/setup-node@v3
         with:
           node-version: '20.x'
+
+      - name: Install Dependencies
+        run: npm install
     
-      - name: Deploy to gh-pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.PERSON_ACCESS_TOKEN_FOR_PUSH_TO_GH_PAGES_BRANCH }}
           publish_dir: ./build
+          publish_branch: release
 
 
